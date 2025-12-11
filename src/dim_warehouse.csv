@@ -1,0 +1,9 @@
+WarehouseID,WarehouseName,City/Province,CountryName,RegionCode,Continent
+WH01,Kho Hà Nội,Hà Nội,Việt Nam,R01,Asia
+WH02,Kho Hải Phòng,Hải Phòng,Việt Nam,R01,Asia
+WH03,Kho Đà Nẵng,Đà Nẵng,Việt Nam,R02,Asia
+WH04,Kho Nha Trang,Khánh Hòa,Việt Nam,R02,Asia
+WH05,Kho TP.HCM,Hồ Chí Minh,Việt Nam,R03,Asia
+WH06,Kho Cần Thơ,Cần Thơ,Việt Nam,R03,Asia
+WH07,Kho Bangkok,Bangkok,Thái Lan,R04,Asia
+WH08,Kho Singapore,Singapore,Singapore,R05,Asia

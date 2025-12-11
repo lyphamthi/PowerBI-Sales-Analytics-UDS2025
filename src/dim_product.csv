@@ -1,0 +1,17 @@
+ProductID,ProductName,ProductGroup,ProductSubGrp,Unit,ProductClass,Price,ProductVolume
+P001,Bàn Làm Việc Basic,Bàn,Văn phòng,cái,Regular,1250000,0.096
+P002,Bàn Cafe Nordic,Bàn,Gia dụng,cái,Season,1050000,0.102
+P003,Bàn Học Sinh Deluxe,Bàn,Gia đình,cái,Season,1650000,0.113
+P004,Bàn Gấp Đa Năng,Bàn,Gia dụng,cái,Regular,950000,0.09
+P005,Ghế Văn Phòng Ergo,Ghế,Văn phòng,cái,Regular,950000,0.069
+P006,Ghế Ăn Cafe Urban,Ghế,Gia dụng,cái,Regular,800000,0.041
+P007,Ghế Lãnh Đạo Comfort,Ghế,Văn phòng,cái,Regular,2100000,0.05
+P008,Ghế Gấp Thông Minh,Ghế,Gia dụng,cái,Regular,750000,0.058
+P009,Tủ Locker 12 Ngăn,Tủ,Kim loại,cái,Regular,2400000,0.112
+P010,Tủ Quần Áo 3 Cánh,Tủ,Gia đình,cái,Regular,3500000,0.113
+P011,Tủ Văn Phòng Eco,Tủ,Văn phòng,cái,Regular,1900000,0.125
+P012,Tủ Giày Thông Minh,Tủ,Gia dụng,cái,Regular,1050000,0.124
+P013,Kệ Sách Mini,Kệ,Gia đình,cái,Regular,850000,0.071
+P014,Kệ Tivi Zen,Kệ,Gia đình,cái,Regular,1300000,0.069
+P015,Kệ Để Chén Inox,Kệ,Nhà bếp,cái,Regular,900000,0.059
+P016,Giường Gỗ Queen,Giường,Gia đình,cái,Season,5800000,0.185

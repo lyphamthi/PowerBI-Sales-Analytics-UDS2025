@@ -1,0 +1,47 @@
+OrderID,ProductID,WarehouseID,RegionCode,EmployeeID,CancelDate,Priority,ReasonGroup,ReasonDetail,ProductVolume,Price,CancelDateKey
+OD0170,P008,WH04,R02,E004,2024-05-07,4,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.058,750000,20240507
+OD0068,P011,WH03,R02,E003,2024-03-20,4,Lý do kỹ thuật,Sai thông số kỹ thuật,0.125,1900000,20240320
+OD0134,P015,WH08,R05,E008,2024-04-26,1,Hết hàng,Nhà cung cấp báo thiếu,0.059,900000,20240426
+OD0247,P004,WH04,R02,E004,2024-06-11,4,Khách thay đổi nhu cầu,Chuyển sang mẫu khác,0.09,950000,20240611
+OD0075,P003,WH08,R05,E008,2024-03-07,4,Khách thay đổi nhu cầu,Không còn nhu cầu,0.113,1650000,20240307
+OD0055,P013,WH04,R02,E004,2024-03-20,1,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.071,850000,20240320
+OD0256,P012,WH01,R01,E009,2024-07-18,2,Lý do vận chuyển,Giao trễ nhiều lần,0.124,1050000,20240718
+OD0286,P010,WH07,R04,E007,2024-07-17,3,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.113,3500000,20240717
+OD0429,P013,WH08,R05,E008,2024-12-18,5,Lý do kỹ thuật,SP lỗi thiết kế,0.071,850000,20241218
+OD0204,P008,WH04,R02,E004,2024-05-29,5,Lý do kỹ thuật,Sai thông số kỹ thuật,0.058,750000,20240529
+OD0434,P014,WH03,R02,E003,2024-12-29,1,Khách thay đổi nhu cầu,Không còn nhu cầu,0.069,1300000,20241229
+OD0114,P002,WH03,R02,E003,2024-04-07,2,Lý do vận chuyển,Bất khả kháng do vận tải,0.102,1050000,20240407
+OD0059,P003,WH01,R01,E001,2024-03-19,1,Lý do kỹ thuật,Sai thông số kỹ thuật,0.113,1650000,20240319
+OD0383,P013,WH01,R01,E001,2024-10-11,2,Lý do kỹ thuật,Sai thông số kỹ thuật,0.071,850000,20241011
+OD0164,P012,WH01,R01,E009,2024-05-08,4,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.124,1050000,20240508
+OD0172,P015,WH01,R01,E009,2024-05-09,4,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.059,900000,20240509
+OD0407,P004,WH05,R03,E005,2024-11-23,3,Hết hàng,Tồn kho không đủ,0.09,950000,20241123
+OD0229,P010,WH04,R02,E004,2024-06-06,5,Lý do vận chuyển,Bất khả kháng do vận tải,0.113,3500000,20240606
+OD0147,P002,WH05,R03,E005,2024-05-04,3,Lý do kỹ thuật,Sai thông số kỹ thuật,0.102,1050000,20240504
+OD0095,P005,WH04,R02,E004,2024-04-27,4,Lý do kỹ thuật,Sai thông số kỹ thuật,0.069,950000,20240427
+OD0443,P001,WH07,R04,E007,2024-12-24,4,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.096,1250000,20241224
+OD0050,P015,WH07,R04,E007,2024-03-18,2,Hết hàng,Nhà cung cấp báo thiếu,0.059,900000,20240318
+OD0168,P004,WH07,R04,E007,2024-05-16,4,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.09,950000,20240516
+OD0148,P009,WH03,R02,E003,2024-05-21,2,Lý do vận chuyển,Bất khả kháng do vận tải,0.112,2400000,20240521
+OD0036,P007,WH04,R02,E004,2024-02-10,1,Khách thay đổi nhu cầu,Chuyển sang mẫu khác,0.05,2100000,20240210
+OD0061,P002,WH07,R04,E007,2024-03-23,5,Khách thay đổi nhu cầu,Chuyển sang mẫu khác,0.102,1050000,20240323
+OD0090,P013,WH07,R04,E007,2024-04-02,1,Lý do kỹ thuật,SP lỗi thiết kế,0.071,850000,20240402
+OD0110,P012,WH08,R05,E008,2024-04-22,4,Lý do kỹ thuật,SP lỗi thiết kế,0.124,1050000,20240422
+OD0379,P009,WH03,R02,E003,2024-10-25,1,Lý do kỹ thuật,SP lỗi thiết kế,0.112,2400000,20241025
+OD0195,P003,WH05,R03,E010,2024-05-09,3,Lý do vận chuyển,Giao trễ nhiều lần,0.113,1650000,20240509
+OD0242,P009,WH02,R01,E002,2024-06-15,1,Khách thay đổi nhu cầu,Chuyển sang mẫu khác,0.112,2400000,20240615
+OD0451,P012,WH01,R01,E009,2024-12-30,2,Khách thay đổi nhu cầu,Không còn nhu cầu,0.124,1050000,20241230
+OD0319,P004,WH02,R01,E002,2024-08-18,5,Lý do kỹ thuật,SP lỗi thiết kế,0.09,950000,20240818
+OD0462,P003,WH07,R04,E007,2024-12-17,4,Lý do vận chuyển,Giao trễ nhiều lần,0.113,1650000,20241217
+OD0198,P005,WH08,R05,E008,2024-05-25,2,Lý do kỹ thuật,SP lỗi thiết kế,0.069,950000,20240525
+OD0271,P015,WH05,R03,E005,2024-07-10,5,Lý do kỹ thuật,SP lỗi thiết kế,0.059,900000,20240710
+OD0369,P010,WH03,R02,E003,2024-11-02,5,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.113,3500000,20241102
+OD0123,P007,WH04,R02,E004,2024-04-09,5,Lý do vận chuyển,Bất khả kháng do vận tải,0.05,2100000,20240409
+OD0135,P001,WH03,R02,E003,2024-04-18,5,Lý do kỹ thuật,Sai thông số kỹ thuật,0.096,1250000,20240418
+OD0293,P009,WH04,R02,E004,2024-07-23,1,Lý do kỹ thuật,Sai thông số kỹ thuật,0.112,2400000,20240723
+OD0118,P003,WH04,R02,E004,2024-04-13,3,Lý do vận chuyển,Giao trễ nhiều lần,0.113,1650000,20240413
+OD0197,P011,WH01,R01,E001,2024-05-18,1,Lý do kỹ thuật,SP lỗi thiết kế,0.125,1900000,20240518
+OD0396,P013,WH02,R01,E002,2024-11-24,1,Lý do vận chuyển,Bất khả kháng do vận tải,0.071,850000,20241124
+OD0355,P014,WH07,R04,E007,2024-09-09,3,Hết hàng,Tồn kho không đủ,0.069,1300000,20240909
+OD0466,P007,WH07,R04,E007,2025-01-01,4,Khách hủy do trễ tiến độ,Khách yêu cầu hủy do giao chậm,0.05,2100000,20250101
+OD0378,P007,WH01,R01,E001,2024-10-11,5,Khách thay đổi nhu cầu,Chuyển sang mẫu khác,0.05,2100000,20241011

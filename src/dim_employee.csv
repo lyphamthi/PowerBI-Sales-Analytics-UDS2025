@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Position,RegionCode,WarehouseID
+E001,Nguyễn Văn An,Sales,R01,WH01
+E002,Trần Thị Bình,Sales,R01,WH02
+E003,Lê Quang Cường,Sales,R02,WH03
+E004,Phạm Minh Dương,Sales,R02,WH04
+E005,Vũ Hồng Em,Sales,R03,WH05
+E006,Hoàng Văn Giáp,Sales,R03,WH06
+E007,Chaiyut Sookchai,Sales,R04,WH07
+E008,Lim Yong Seng,Sales,R05,WH08
+E009,Nguyễn Mai Lan,Warehouse,R01,WH01
+E010,Lưu Thị Phương,Warehouse,R03,WH05

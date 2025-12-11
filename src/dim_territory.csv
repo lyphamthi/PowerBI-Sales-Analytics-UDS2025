@@ -1,0 +1,6 @@
+RegionCode,RegionName,CountryName,AreaGroup
+R01,Miền Bắc,Việt Nam,Đông Dương
+R02,Miền Trung,Việt Nam,Đông Dương
+R03,Miền Nam,Việt Nam,Đông Dương
+R04,Bangkok,Thái Lan,ASEAN
+R05,Singapore,Singapore,ASEAN
